@@ -5,10 +5,11 @@ Proyek tugas besar struktur data yang mensimulasikan manajemen lalu lintas udara
 ---
 
 ## 👥 Anggota Kelompok
-1. Zhafif Yusuf Al Amin/109082500137/S1IF-13-04
-2. Ferdyan Dhesta Firmansyah/109082500109/S1IF-13-03
-3. Janica Prima Ginting/109082500064/S1IF-13-02
-4. Mahardhika Putra Azlian/109082500025/S1IF-13-01
+1. Mahardhika Putra Azlian/109082500025/S1IF-13-01
+2. Janica Prima Ginting/109082500064/S1IF-13-02
+3. Ferdyan Dhesta Firmansyah/109082500109/S1IF-13-03
+4. Zhafif Yusuf Al Amin/109082500137/S1IF-13-04
+
 ---
 
 ## 🛠️ Struktur Data yang Digunakan
