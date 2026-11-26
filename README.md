@@ -1,6 +1,6 @@
 # ✈️ Sistem Simulasi Air Traffic Control (ATC) Bandara
 
-Proyek tugas besar struktur data yang mensimulasikan manajemen lalu lintas udara di bandara secara terpadu, mulai dari validasi pesawat, antrean holding pattern di udara dengan prioritas kegawatan darurat, alokasi landasan pacu secara *real-time*, hingga pengarsipan riwayat pendaratan harian.
+Proyek tugas besar struktur data yang mensimulasikan manajemen lalu lintas udara di bandara secara terpadu, mulai dari validasi pesawat, antrean holding pattern di udara dengan prioritas urutan penanganan darurat, alokasi landasan pacu secara *real-time*, hingga pengarsipan riwayat pendaratan harian.
 
 ---
 
